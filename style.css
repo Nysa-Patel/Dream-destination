@@ -2,3 +2,19 @@ body {
     background-color: rgb(139, 192, 228);
     color: white;
 }
+h1 {
+    color: white;
+    font-family: Arial;
+}
+h3 {
+    color: gray;
+    font-family: Arial;
+}
+h4 {
+    color: black;
+    font-family: Arial;
+} 
+p {
+    color: blue;
+    font-family: Arial;
+}
